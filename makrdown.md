@@ -27,7 +27,7 @@
 
 4 링크
 [naver](https://www.naver.com)  
-[Google][1]  
+[Google][1]
 [1]: https://google.com  
 
 5 이미지
