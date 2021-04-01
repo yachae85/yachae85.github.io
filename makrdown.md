@@ -25,10 +25,8 @@
 * 순서가 필요하지 않은 목록
 + 순서가 필요하지 않은 목록
 
-4 링크
+4 링크  
 [naver](https://www.naver.com)  
-[Google][1]
-[1]: https://google.com "구글링크"
 
 5 이미지
 ![아이유 이미지](https://i.pinimg.com/originals/52/c7/ab/52c7ab7f3825f0b804555681b7c6098b.jpg "아이유 이미지 입니다")
