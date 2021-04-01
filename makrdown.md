@@ -37,6 +37,12 @@
 `<a>` <a>그냥 쓰면 사라져요 
 
 8 블록 코드 강조
+```javascript
+function func() {
+    var a = 'aaa';
+    return a;
+}
+```
 
 9 표
 
