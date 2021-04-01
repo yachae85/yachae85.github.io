@@ -65,6 +65,7 @@ function func() {
 11 원시 html  
 <a href="https://www.naver.com">a태그</a>
 <p>p태그</P>
+<img src="https://i.pinimg.com/originals/52/c7/ab/52c7ab7f3825f0b804555681b7c6098b.jpg" width="100">
 
 12 수평선
 ---
