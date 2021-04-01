@@ -7,9 +7,9 @@
 ###### 제목 6
 
 2 강조
-*이텔릭체* _이텔릭체_
-**두껍게** __두껍게__
-~~취소선~~
+*이텔릭체* _이텔릭체_  
+**두껍게** __두껍게__  
+~~취소선~~  
 <u>밑줄</u>
 
 3 목록
@@ -21,9 +21,9 @@
 + 순서가 필요하지 않은 목록
 
 4 링크
-[naver](https://www.naver.com)
-[Google][1]
-[1] : https://google.com
+[naver](https://www.naver.com)  
+[Google][1]  
+[1] : https://google.com  
 
 5 이미지
 ![아이유 이미지](https://i.pinimg.com/originals/52/c7/ab/52c7ab7f3825f0b804555681b7c6098b.jpg "아이유 이미지 입니다")
