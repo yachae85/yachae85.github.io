@@ -68,7 +68,8 @@ function func() {
 <img src="https://i.pinimg.com/originals/52/c7/ab/52c7ab7f3825f0b804555681b7c6098b.jpg" width="100">
 
 12 수평선
----
+-------
+- - -
 ***
 ___
 
